@@ -16,5 +16,12 @@ public class HelloWorld {
 	String apiKey="this-is-a-dummy-key";
 	int InvalidPasswordAttempt=0;
   System.out.println("Hai");	    
+
+
+	    String myvar = null;
+	    if(myvar.length() > 0)
+	    {
+		    System.out.println("Im not empty");
+	    }
     }
 }
